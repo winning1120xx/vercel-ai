@@ -1,5 +1,11 @@
 # @ai-sdk/openai
 
+## 2.0.0-beta.4
+
+### Patch Changes
+
+- ad2a3d5: feat(provider/openai): add missing reasoning models to responses API
+
 ## 2.0.0-beta.3
 
 ### Major Changes
